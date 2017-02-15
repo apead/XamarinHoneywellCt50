@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoneywellDataCollectionSdkJbl", "HoneywellDataCollectionSdkJbl\HoneywellDataCollectionSdkJbl.csproj", "{F64835D2-455D-4AE2-8A08-95F0C847F5FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Droid", "Sample.Droid\Sample.Droid.csproj", "{71B3F932-C04B-49AD-BF66-55466DB4053C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mfaCT50Scanning", "mfaCT50Scanning\mfaCT50Scanning.csproj", "{5C308B88-FB6C-47CB-BCD3-BD09B3ED1237}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample", "Sample", "{2A607459-070C-4EF6-8158-31059910C71E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64835D2-455D-4AE2-8A08-95F0C847F5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64835D2-455D-4AE2-8A08-95F0C847F5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64835D2-455D-4AE2-8A08-95F0C847F5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64835D2-455D-4AE2-8A08-95F0C847F5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B3F932-C04B-49AD-BF66-55466DB4053C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B3F932-C04B-49AD-BF66-55466DB4053C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B3F932-C04B-49AD-BF66-55466DB4053C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{71B3F932-C04B-49AD-BF66-55466DB4053C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B3F932-C04B-49AD-BF66-55466DB4053C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B3F932-C04B-49AD-BF66-55466DB4053C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5C308B88-FB6C-47CB-BCD3-BD09B3ED1237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C308B88-FB6C-47CB-BCD3-BD09B3ED1237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C308B88-FB6C-47CB-BCD3-BD09B3ED1237}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5C308B88-FB6C-47CB-BCD3-BD09B3ED1237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C308B88-FB6C-47CB-BCD3-BD09B3ED1237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C308B88-FB6C-47CB-BCD3-BD09B3ED1237}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{71B3F932-C04B-49AD-BF66-55466DB4053C} = {2A607459-070C-4EF6-8158-31059910C71E}
+	EndGlobalSection
+EndGlobal

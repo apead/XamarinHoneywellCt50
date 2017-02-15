@@ -1,0 +1,3 @@
+<metadata>
+  <attr path="/api/package[@name='com.honeywell']/class[@name='IExecutor.Stub']/method[@name='onTransact' and count(parameter)=4 and parameter[1][@type='int'] and parameter[2][@type='android.os.Parcel'] and parameter[3][@type='android.os.Parcel'] and parameter[4][@type='int']]" name="visibility">protected</attr>
+</metadata>
